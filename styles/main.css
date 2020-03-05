@@ -1,0 +1,22 @@
+
+
+.flex{
+    flex-basis: 28%;
+    background-color: aliceblue;
+    border: 1px dotted darkcyan;
+    margin: 0.35rem 0;
+    padding: 1.25rem;
+}
+
+.container{
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.number{
+	border: 2px solid black;
+	margin: 1em;
+	padding: 1em;
+	width: 1em;
+}
+
